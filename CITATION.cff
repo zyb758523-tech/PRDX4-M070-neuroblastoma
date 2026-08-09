@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this analysis code or frozen model, please cite the archived software release and the associated manuscript."
+title: "PRDX4-M070 neuroblastoma analysis"
+type: software
+version: 1.0.0
+date-released: 2026-08-09
+authors:
+  - family-names: Zeng
+    given-names: Yanbo
+    affiliation: "Xinjiang Uygur Autonomous Region Children's Hospital, Urumqi, Xinjiang, China"
+  - family-names: Yan
+    given-names: Jinghao
+    affiliation: "Xinjiang Uygur Autonomous Region Children's Hospital, Urumqi, Xinjiang, China"
+  - family-names: Li
+    given-names: Shuixue
+    affiliation: "Xinjiang Uygur Autonomous Region Children's Hospital, Urumqi, Xinjiang, China"
+  - family-names: Zhou
+    given-names: Ling
+    affiliation: "Xinjiang Uygur Autonomous Region Children's Hospital, Urumqi, Xinjiang, China"
+license: MIT
+repository-code: "__GITHUB_REPOSITORY_URL__"
+keywords:
+  - neuroblastoma
+  - PRDX4
+  - lactate metabolism
+  - single-cell RNA sequencing
+  - survival analysis
+  - machine learning
+  - external validation
+
