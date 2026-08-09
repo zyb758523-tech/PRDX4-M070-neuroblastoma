@@ -1,0 +1,14 @@
+SC28 RECALC 06B completed successfully.
+End: 2026-08-08 21:43:13.621914
+Frozen model used unchanged: M070 = SuperPC -> RSF
+Model refit: FALSE
+Gene reselection: FALSE
+PRDX4 selected in frozen model: TRUE
+Frozen model MD5: e719d0e6b626e75cc134e83fd0929083
+Original06 unique SEQC predictions: 1
+Corrected06B unique SEQC predictions: 498
+SEQC N/events: 498/105
+Locked-cutoff High/Low: 300/198
+Warnings captured: 0
+SEQC outcomes were not used for cross-platform harmonization.
+Primary external-validation results: Tables/07_SEQC_EXTERNAL_M070_performance.csv

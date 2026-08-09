@@ -1,0 +1,3 @@
+"ScalingMethod","N","FiniteN","UniquePredictionN","PredictionSD","PredictionMin","PredictionMedian","PredictionMax","ConstantPrediction"
+"Original06_apply_EMTAB_centerSD_to_SEQC",498,498,1,0,6.85730663945618,6.85730663945618,6.85730663945618,TRUE
+"Corrected06B_SEQC_cohort_gene_zscore",498,498,498,21.4734937011615,0.0533151515151515,7.09303718429189,92.0354568471604,FALSE
