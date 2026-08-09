@@ -8,7 +8,7 @@ This repository contains the audited R code, frozen M070 model, selected outputs
 
 ## Repository status
 
-- Release candidate: `v1.0.0`
+- Archived public release: v1.0.0
 - Final prognostic model: M070 (`SuperPC` selector followed by random survival forest)
 - Model selection: 10 repeats × 5-fold cross-validation in E-MTAB-179 only
 - External validation: SEQC, 498 patients and 105 overall-survival events
