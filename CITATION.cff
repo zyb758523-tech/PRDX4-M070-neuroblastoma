@@ -2,7 +2,8 @@ cff-version: 1.2.0
 message: "If you use this analysis code or frozen model, please cite the archived software release and the associated manuscript."
 title: "PRDX4-M070 neuroblastoma analysis"
 type: software
-version: 1.0.0 doi: "10.5281/zenodo.21863956"
+version: 1.0.0
+doi: "10.5281/zenodo.21863956"
 date-released: 2026-08-09
 authors:
   - family-names: Zeng
