@@ -1,0 +1,15 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+*.tmp
+*.temp
+*.log
+Thumbs.db
+.DS_Store
+
+# Large public-data derivatives should be reconstructed locally and not committed.
+Raw_Data/
+Input_Data/
+Local_Workspace/

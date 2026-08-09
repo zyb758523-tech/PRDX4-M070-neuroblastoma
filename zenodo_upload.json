@@ -1,0 +1,36 @@
+{
+  "title": "PRDX4-M070 neuroblastoma analysis",
+  "description": "Audited R code, frozen M070 model, selected outputs, stage archives, session records, and integrity checks supporting a single-cell lactate-state and externally validated prognostic analysis in neuroblastoma.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "version": "1.0.0",
+  "creators": [
+    {
+      "name": "Zeng, Yanbo",
+      "affiliation": "Xinjiang Uygur Autonomous Region Children's Hospital, Urumqi, Xinjiang, China"
+    },
+    {
+      "name": "Yan, Jinghao",
+      "affiliation": "Xinjiang Uygur Autonomous Region Children's Hospital, Urumqi, Xinjiang, China"
+    },
+    {
+      "name": "Li, Shuixue",
+      "affiliation": "Xinjiang Uygur Autonomous Region Children's Hospital, Urumqi, Xinjiang, China"
+    },
+    {
+      "name": "Zhou, Ling",
+      "affiliation": "Xinjiang Uygur Autonomous Region Children's Hospital, Urumqi, Xinjiang, China"
+    }
+  ],
+  "keywords": [
+    "neuroblastoma",
+    "PRDX4",
+    "lactate metabolism",
+    "single-cell RNA sequencing",
+    "survival analysis",
+    "machine learning",
+    "external validation"
+  ],
+  "notes": "Final model: M070 (SuperPC followed by random survival forest). Frozen model MD5: e719d0e6b626e75cc134e83fd0929083."
+}
