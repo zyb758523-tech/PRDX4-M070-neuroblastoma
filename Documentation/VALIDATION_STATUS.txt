@@ -1,0 +1,12 @@
+Source recovery status: COMPLETE for the final RECALC 01 through 07C sequence.
+
+Evidence available:
+- Executed source scripts recovered for 01, 02, 03, 04C, 05, 06, 06B, 07A, 07A-FIX1, 07B-FIX3, and 07C.
+- Completed result archives and/or selected stage outputs are included.
+- Session information and warning logs are included for final stages.
+- Locked M070 model cryptographic hashes match the final manuscript record.
+
+Limitation of this packaging environment:
+- R/Rscript was not installed in the document-packaging container, so the scripts were not rerun in this container.
+- The scripts were previously executed in the author's R 4.6.0 Windows environment, and the corresponding output folders, run summaries, warning logs, and sessionInfo files are retained as execution evidence.
+- Large public-data input objects are not duplicated; rerunning requires reconstruction or placement of those objects at the paths documented in Input_Data_Manifest.csv.

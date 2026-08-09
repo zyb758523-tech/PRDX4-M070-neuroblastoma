@@ -1,0 +1,8 @@
+Input,Expected path or source,Public identifier,Included in package,Notes
+Single-cell Seurat object,<input_root>/GSE137804_seurat_final.rds,GSE137804,No,Public-data derivative required for RECALC 01 and 02; set input_root locally
+Revised cell annotation,NB_Lactate_Rebuild_2026/SC27C_FIXED_RevisedManualAnnotation_AfterOriginalComparison/Tables/02_SC27C_cell_level_revised_annotation.csv,GSE137804 derivative,No,Required for core tumor-like neural-cell definition
+E-MTAB-179 expression,NB_Lactate_Rebuild_2026/SC13A_MANUAL_V6_EMTAB179_ADF_TabFix/Tables/05_EMTAB179_expr_gene_symbol_matched.rds,E-MTAB-179,No,Model-development expression matrix
+E-MTAB-179 clinical data,NB_Lactate_Rebuild_2026/SC13A_MANUAL_V5_EMTAB179_SemicolonFix/Tables/04_EMTAB179_clin_matched_raw.csv,E-MTAB-179,No,Overall-survival and clinical variables
+SEQC ready object,NB_Lactate_Rebuild_2026/01_Preprocess/SEQC_GSE49711_ready_FIX2/SEQC_external_validation_ready_input_FIX2.rds,GSE49711/SEQC,No,Expression and clinical object used for locked external validation
+Historical candidate-panel object,NB_Lactate_Rebuild_2026/SC12A_PRDX4_CandidatePool_Refinement_ModelInput/Tables/07_SC12A_SEQC_model_input_PRDX4_panels.rds,Derived object,No,Used for the candidate-panel audit and transitional model scripts
+MSigDB gene sets,Retrieved by msigdbr using the keyword lactate,MSigDB 2026.1,Membership tables included,Five sets merged to 284 unique genes; search date February 4 2026

@@ -1,0 +1,3 @@
+This repository-release candidate contains the MIT License for the authors' analysis code.
+
+Before public release, all authors should confirm that the MIT License is consistent with institutional requirements and with the terms of the upstream data resources. The license applies to the authors' analysis code; upstream datasets remain governed by their original terms.
