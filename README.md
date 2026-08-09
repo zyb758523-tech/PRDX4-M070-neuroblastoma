@@ -1,4 +1,5 @@
-[![DOI](https://zenodo.org/badge/1328986618.svg)](https://doi.org/10.5281/zenodo.21863955)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21863956.svg)](https://doi.org/10.5281/zenodo.21863956)
+
 # PRDX4–M070 neuroblastoma analysis
 
 This repository contains the audited R code, frozen M070 model, selected outputs, stage archives, session records, and integrity checks supporting the manuscript:
