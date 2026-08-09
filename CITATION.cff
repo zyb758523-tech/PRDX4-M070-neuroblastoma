@@ -18,7 +18,7 @@ authors:
     given-names: Ling
     affiliation: "Xinjiang Uygur Autonomous Region Children's Hospital, Urumqi, Xinjiang, China"
 license: MIT
-repository-code: "__GITHUB_REPOSITORY_URL__"
+repository-code: "https://github.com/zyb758523-tech/PRDX4-M070-neuroblastoma"
 keywords:
   - neuroblastoma
   - PRDX4
